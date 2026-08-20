@@ -10,12 +10,10 @@ The latest version of Erode is available in the fonts folder.
 
 Files
 Erode-Regular.otf — OpenType font
-Erode-Regular.ttf — TrueType font
 Erode-Regular.woff — Web font
 Erode-Regular.woff2 — Web font, optimized for modern browsers
 
 Erode-Display.otf — OpenType font
-Erode-Display.ttf — TrueType font
 Erode-Display.woff — Web font
 Erode-Display.woff2 — Web font, optimized for modern browsers
 
